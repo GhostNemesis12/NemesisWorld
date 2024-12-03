@@ -1,0 +1,29 @@
+# Main Class
+cpw.mods.bootstraplauncher.BootstrapLauncher
+
+# NeoForge Run-Type Program Arguments
+--launchTarget
+forgedatadev
+--assetIndex
+18
+--assetsDir
+C:\\Users\\emiro\\.gradle\\caches\\neoformruntime\\assets
+--gameDir
+.
+--fml.fmlVersion
+5.0.6
+--fml.mcVersion
+1.21.3
+--fml.neoForgeVersion
+21.3.56
+--fml.neoFormVersion
+20241023.131943
+
+# User Supplied Program Arguments
+--mod
+nemesisworld
+--all
+--output
+D:\\Trabajos\\Minecraft\\NemesisWorld\\src\\generated\\resources
+--existing
+D:\\Trabajos\\Minecraft\\NemesisWorld\\src\\main\\resources
